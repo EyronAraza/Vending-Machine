@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(319,26): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(474,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(629,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(784,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(939,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(1176,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(1331,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(1486,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(1641,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(1876,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(2031,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Vending Machine Summative Assignment\Source.cpp(2186,27): warning C4305: 'argument': truncation from 'char' to 'bool'
+  Vending Machine Summative Assignment.vcxproj -> C:\Users\Eyron\Documents\School stuffs\Year 2 SEM1\Code Lab\Vending Machine Summative Assignment\Debug\Vending Machine Summative Assignment.exe
